@@ -77,7 +77,7 @@ If you’ve been reading and have understood everything so far, you must be wond
 
 ### If the Internet is all text… then, when I’m navigating, Am I going to see only text???  How horrible!!!
 
-Well, browsers are equipped with "magical" windows. If you see through those windows you will see the world as it is: No Text!!  The browser must perform all the functions that all other applications in your computer will accomplish. Like representing images, videos, text, sounds, etc., the browser is so great that there are even computers – like the Google Chromecast – that only come with a browser.
+Well, browsers are equipped with "magical" windows. If you see through those windows you will see the world as it is: No Text!!  The browser must perform all the functions that all other applications in your computer will accomplish. Like representing images, videos, text, sounds, etc., the browser is so great that there are even computers – like the Google Chromebook – that only come with a browser.
 
 > :tv: [Click here](https://www.youtube.com/watch?v=83Y4jEgnaAA) to access a video that explains how a Google ChromeBook works.
 
